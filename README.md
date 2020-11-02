@@ -6,6 +6,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 * [Accessibility](#accessibility-️) ♿️
 * [Browser Testing](#browser-testing-) 🌎
+* [Cron Jobs](#cron-)⚡
 * [DNS](#dns-) 🌐
 * [Load Testing](#load-testing-) 🔥
 * [Mail Configuration](#mail-configuration-️) ✉️
@@ -14,10 +15,11 @@ List of links to the various checkers out there on the web for sites, domains, s
 * [Security](#security-) 🔒
 * [SEO](#seo-) 📈
 * [Technology Used](#technology-used-) 🖥
+* [Uptime Monitoring](#uptime-monitoring-) 📉
 * [URL Analysis](#url-analysis-) 🌐
 * [Validation](#validation-) 👌
 * [Website Performance](#website-performance-) 🚀
-* [Contributing](#contributing)
+* [Contributing](#contributing) ✍️
 
 ## Accessibility ♿️
 
@@ -38,6 +40,15 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://saucelabs.com | Test apps and websites in many browsers. Can be integrated in CI workflows. | Free trial, free for open source projects, paid |
 | https://testingbot.com | Test apps and websites in many browsers. Can be integrated in CI workflows. | Free trial, free for open source projects, paid |
 
+## Cron Jobs ⚡
+
+| URL | Description | 💳 |
+| --- | ----------- | -- |
+| https://cronhub.io/ | Painless cron job scheduler & monitoring service. | Paid |
+| https://cronless.com/ | Online Cron Job Replacement and Monitoring Service. | Free |
+| https://deadmanssnitch.com/ | Get More Out of Your Cron Jobs. | Paid |
+| https://healthchecks.io/ | Simple and Effective Cron Job Monitoring. | Free |
+
 ## DNS 🌐
 
 | URL | Description | 💳 |
@@ -46,6 +57,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://www.digwebinterface.com/ | Extensive web interface to dig for doing online DNS / nameserver query. | Free and donations welcome |
 | http://dnscheck.pingdom.com/ | Enter a domain name to check if its DNS servers are configured correctly. | Free |
 | https://dnschecker.org | Check the DNS propagation of domains. | Free |
+| https://dnsdumpster.com/ | Domain research tool that can discover hosts related to a domain. | Free |
 | https://dnsspy.io/ | Monitor, validate and verify your DNS configurations. | Free and paid plans |
 | http://www.dnsstuff.com/tools | Multiple DNS tools. | Free |
 | https://dnswatch.info/ | DNS Lookups & Performance Monitoring. | Free |
@@ -60,6 +72,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://toolbox.googleapps.com/apps/checkmx | Check the MX records of a domain. | Free |
 | https://tools.keycdn.com | Check for http/2 support and find network related issues. | Free |
 | https://www.ultratools.com | Big collection of useful network tools. | Free |
+| https://www.unlocktheinbox.com/dnstools/mx/ | Checks DNS, WHOIS, Blacklists, and more | Free, Paid Plans |
 | http://www.viewdns.info/ | View DNS, IP, MX information. | Free and paid plans |
 | https://www.whatsmydns.net/ | Global DNS propagation checker. | Free |
 
@@ -77,8 +90,8 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://email-checker.net | Check emails addresses and lists of email addresses for existence. | Free, paid premium plans |
 | https://hunter.io/email-verifier | Test the existence of up to 100 email addresses. | Free, paid plans |
 | https://www.mail-tester.com/ | Test the Spammyness of your Emails | Free |
-| https://mxtoolbox.com/blacklists.aspx | The blacklist check will test a mail server IP address against over 100 DNS based email blacklists. | Free |
-| http://verify-email.org | Verify if an email address and the mailbox behind it exists. | Free, paid plans |
+| https://mxtoolbox.com/blacklists.aspx | The blacklist check will test a mail server IP address against over 100 DNS based email | Free, paid plans
+| https://www.unlocktheinbox.com/mail-tester/ | Email Authentication and Configuration Tester | Free, Paid Plans | http://verify-email.org | Verify if an email address and the mailbox behind it exists. | Free, paid plans |
 | http://www.verifyemailaddress.org | Another email address checker. | Free, paid bulk plan |
 | https://tools.verifyemailaddress.io | Test if an email address exists. Also provides an API for developers. | Free, paid API |
 
@@ -86,6 +99,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 | URL | Description | 💳 |
 | --- | ----------- | -- |
+| https://www.unlocktheinbox.com/services/inboxtester/| Email Inbox Tester - Check over 20+ destinations |Paid Plans |
 | https://www.campaignmonitor.com | Preview emails in over 25 different email clients with the inbox preview feature. | Free trial, paid plans |
 | https://www.emailonacid.com | Test emails in over 70 email clients, apps and on different platforms. | Free trial, paid plans |
 | http://www.emailreach.com | Check how the emails render in different clients and on different platforms with the EmailView and MobileView features. | Free trial, paid plans |
@@ -104,11 +118,12 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 | URL | Description | 💳 |
 | --- | ----------- | -- |
+| https://www.checkbot.io/ | Browser extension that checks multiple pages at once for web security best practices. Finds HTTPS mixed content issues, insecure password forms and more. | Free and paid plans |
 | https://crt.sh | Get an overview and information of assigned TLS certificates. | Free |
 | https://csp-evaluator.withgoogle.com | Validate and check the CSP for weaknesses and security issues. | Free |
 | https://hackertarget.com | This service provides multiple tools to check websites for vulnerabilities. | Free and paid plans |
 | https://www.hardenize.com/ | Harden your server's security | Free |
-| https://hstspreload.org/ | | Free |
+| https://hstspreload.org/ | Check if a domain is on the HSTS preload list in browsers and submit them to the list. | Free |
 | https://www.htbridge.com/ssl/ | Test SSL/TLS implementation of any service on any port for compliance with PCI DSS requirements, HIPAA guidance and NIST guidelines. | Free |
 | https://httpschecker.net/ | Track down HTTPS mixed content issues. | Free and paid plans |
 | http://www.isithacked.com | Check if there are any signs that a website is hacked. | Free |
@@ -126,9 +141,9 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 | URL | Description | 💳 |
 | --- | ----------- | -- |
+| https://www.checkbot.io/ | Browser extension that checks multiple pages at once for SEO best practices. Finds duplicate content, broken links, unfriendly URL names and more. | Free and paid plans |
 | https://insites.com/ | Test your websites for everything. Check spelling, broken links, SEO, accessibility and more | Paid |
 | http://nibbler.silktide.com/ | Nibbler is a free tool for testing websites. Enter the address of any website and Nibbler will give you a report scoring the website out of 10 for key areas, including accessibility, SEO, social media and technology. | Free and paid plans |
-| https://pro.letsvalidate.com/ | LetsValidate is a free tool to analyze websites to find weaknesses related to competition and make a suggestions to improve your website rankings. It also has a module for analysis of technologies used on the website. | Free |
 | https://richpreview.com/ | Preview your website for chat apps and social networks | Free |
 | https://search.google.com/structured-data/testing-tool/u/0/ | Evaluate your structed data (rich snippets) markup for errors or warnings | Free |
 | https://seomator.com | SEO Audit Tool and website crawler for SEO performance improving with How-to-Fix tips. | Paid |
@@ -139,6 +154,17 @@ List of links to the various checkers out there on the web for sites, domains, s
 | URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://builtwith.com/ | Find out what websites are Built With | Free and paid plans |
+
+
+## Uptime Monitoring 📉
+
+| URL | Description | 💳 |
+| --- | ----------- | -- |
+| https://uptimerobot.com/ | 50 monitors, 5 min intervals, 2 months of logs free | Free and paid plans |
+| https://www.freshworks.com/website-monitoring/ | 50 monitors, 1 min intervals, 5 public status pages free | Free and paid plans |
+| https://www.statuscake.com/ | 10 monitors, 5 min intervals, branded public reporting free | Free and paid plans |
+| https://ohdear.app/ | 2 sites, 5 euro, uptime,  certificate monitoring, mixed content scanning and more | Paid only |
+
 
 ## URL Analysis 🌐
 
@@ -151,15 +177,17 @@ List of links to the various checkers out there on the web for sites, domains, s
 | URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://validator.w3.org/unicorn/ | Checks for proper HTML and CSS markup as well as broken links. | Free |
+| https://www.zerobounce.com/ | Checks to see if the email address is valid. | Free, Paid plans |
 
 ## Website Performance 🚀
 
 | URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://checkgzipcompression.com/ | Check if GZIP compression on your web server is enabled | Free |
+| https://www.checkbot.io/ | Browser extension that checks multiple pages at once for performance best practices. Finds unminified resources, redirect chains, render-blocking JavaScript and more. | Free and paid plans |
 | https://developers.google.com/speed/pagespeed/insights/ | PageSpeed Insights analyzes the content of a web page, then generates suggestions to make that page faster. | Free |
 | https://gtmetrix.com/ | GTmetrix is a free tool that analyzes your page's speed performance.  Using PageSpeed and YSlow, GTmetrix generates scores for your pages and offers actionable recommendations on how to fix them. | Free and paid plans |
-| http://www.monitis.com/pageload | Simple page load test from 3 contintents. | Free |
+| http://www.monitis.com/pageload | Simple page load test from 3 continents. | Free |
 | https://pageweight.imgix.com/ | See how images affect your page speed | Free |
 | https://testmysite.withgoogle.com | Checks websites for performance issues and provides reports. | Free |
 | https://toolbox.googleapps.com/apps/har_analyzer | Analyse the performance with a HAR file. | Free |
@@ -168,7 +196,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://www.webpagetest.org | Website performance test tools with many options. | Free |
 | http://yellowlab.tools/ | Online test to help speeding up heavy web pages | Free |
 
-## Contributing
+## Contributing ✍️
 
 This started as a small personal project.
 
