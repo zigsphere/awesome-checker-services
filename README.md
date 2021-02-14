@@ -6,7 +6,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 * [Accessibility](#accessibility-️) ♿️
 * [Browser Testing](#browser-testing-) 🌎
-* [Cron Jobs](#cron-)⚡
+* [Cron Jobs](#cron-jobs-)⚡
 * [DNS](#dns-) 🌐
 * [Load Testing](#load-testing-) 🔥
 * [Mail Configuration](#mail-configuration-️) ✉️
@@ -133,7 +133,6 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://securityheaders.io/ | Scott Helme built securityheaders.io after deploying security headers like CSP and HSTS to his own site. He wanted a quick and easy way to check if other sites were using these headers and he figured he'd turn it into a useful tool for everyone to use! | Free |
 | https://security.sensiolabs.org/ | Check your PHP project for known security issues | Free |
 | https://sshcheck.com | Check the SSH configuration of servers. | Free |
-| https://ssldecoder.org | Check the TLS configuration of a server. | Free |
 | https://www.ssllabs.com/ssltest/ | This free online service performs a deep analysis of the configuration of any SSL web server on the public Internet | Free |
 | https://tls.imirhil.fr/ | Test the strength of the available ciphers which can be used with HTTPS or SSH. | Free |
 
@@ -160,10 +159,11 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 | URL | Description | 💳 |
 | --- | ----------- | -- |
-| https://uptimerobot.com/ | 50 monitors, 5 min intervals, 2 months of logs free | Free and paid plans |
 | https://www.freshworks.com/website-monitoring/ | 50 monitors, 1 min intervals, 5 public status pages free | Free and paid plans |
-| https://www.statuscake.com/ | 10 monitors, 5 min intervals, branded public reporting free | Free and paid plans |
+| https://tryhexadecimal.com | No-nonsense website monitoring and status page service | Paid |
 | https://ohdear.app/ | 2 sites, 5 euro, uptime,  certificate monitoring, mixed content scanning and more | Paid only |
+| https://www.statuscake.com/ | 10 monitors, 5 min intervals, branded public reporting free | Free and paid plans |
+| https://uptimerobot.com/ | 50 monitors, 5 min intervals, 2 months of logs free | Free and paid plans |
 
 
 ## URL Analysis 🌐
